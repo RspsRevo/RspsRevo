@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.imgur.com/gVEn1Aq.png" style="border-radius:0.5" alt="RSPS Revolution logo"/>
+  <h1>RSPS Revolution</h1>
 </div>
 
 ###
