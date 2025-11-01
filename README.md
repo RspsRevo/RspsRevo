@@ -23,6 +23,6 @@
   <p>Join the movement and become a part of the revolution!</p>
 </div>
 
-<div align="center">
-![](https://komarev.com/ghpvc/?username=RspsRevo)
-</div>
+
+![](https://komarev.com/ghpvc/?username=RspsRevo&color=blue)
+
